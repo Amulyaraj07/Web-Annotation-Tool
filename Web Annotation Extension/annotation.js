@@ -1,5 +1,3 @@
-// Hii Vansh
-
 (function() {
     if (document.getElementById('annotationSidebar')) return;
 
